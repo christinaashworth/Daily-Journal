@@ -16,24 +16,24 @@ const journal = [
       mood: "Ok"
   },
   {
-      id: 2
+      id: 2,
       date: "11/19/2020", 
       concept: "Form Building",
       entry: "I learned how to build a form today with HTML tags!",
       mood: "Happy"
   },
   {
-      id: 3
+      id: 3,
       date: "11/13/2020",
       concept: "Git and Github",
       entry: "Today, I learned how to properly do a Git workflow!",
       mood: "Happy"
   },
   {
-      id: 4
+      id: 4,
       date: "11/13/2020",
       concept: "Git and Github",
-      entry: "DON'T accidentally commit your branch into main. Just don't do it."
+      entry: "DON'T accidentally commit your branch into main. Just don't do it.",
       mood: "Frustrated"
   }
 ]
