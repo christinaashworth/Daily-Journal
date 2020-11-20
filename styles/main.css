@@ -3,3 +3,6 @@ fieldset {
     flex-direction: column;
 }
 
+footer {
+    text-align: right;
+}
